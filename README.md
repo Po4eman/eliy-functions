@@ -1,4 +1,11 @@
 # My Functions
+## Navigation
+- [Shortcuts](#shortcuts)
+- [Styling](#styling)
+- [DOM](#dom)
+- [Copy From](#copy-from)
+- [Trigger on view](#trigger-on-view)
+- [SubMatrix](#submatrix)
 ## Shortcuts
 ### Shortcuts
 ```
